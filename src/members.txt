@@ -1,0 +1,10 @@
+6 Chandler Bing Address6 111223344 55 55 
+9 Ursula Buffay Address9 111223344 88 88 
+1 Phoebe Buffay Address1 123456789 name name 
+10 Richard Burke Address10 555666777 99 99 
+8 Gunther CoffeeGuy Address8 999888777 77 77 
+3 Monica Geller Address3 111223344 222 222 
+2 Ross Geller Address2 987654321 111 111 
+5 Rachel Green Address5 999888777 444 444 
+7 Janice Hosenstein Address7 555666777 66 66 
+4 Joey Tribbiani Address4 555666777 333 333 

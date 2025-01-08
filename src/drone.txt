@@ -1,0 +1,10 @@
+1 true 100.0 
+6 Amal Awad
+2 false 95.0 
+1 Ross Geller
+3 false 112.0 66.0 18.0 
+
+4 false 158.0 370.0 23.5 2 
+
+5 true 154.0 360.0 23.0 2 
+
